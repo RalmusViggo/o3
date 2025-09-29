@@ -13,3 +13,4 @@ def vis_brukere():
 
 
 if __name__ == "__main__":
+    app.run()
