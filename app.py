@@ -13,8 +13,3 @@ def vis_brukere():
 
 
 if __name__ == "__main__":
-<<<<<<< HEAD
-    app.run() 
-=======
-    app.run()
->>>>>>> refs/remotes/origin/master
